@@ -5,5 +5,5 @@ This is an instroduction to Office Scripts for Excel Online. Check this video on
 
 ## Links
 
-> [Office Scripts Help Documents](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
-> [TypeScript](http://typescriptlang.org)
+- [Office Scripts Help Documents](https://docs.microsoft.com/en-us/office/dev/scripts/overview/excel)
+- [TypeScript](http://typescriptlang.org)
