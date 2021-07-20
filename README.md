@@ -6,7 +6,7 @@ This is an instroduction to Office Scripts for Excel Online. Check this video on
 ## Power Automate
 
 Run Script > Create Table > Send Email
-[![image](https://user-images.githubusercontent.com/16481229/126337517-ed8acc57-35b9-4589-b2c5-a50ec5be2c07.png)]()
+![image](https://user-images.githubusercontent.com/16481229/126337517-ed8acc57-35b9-4589-b2c5-a50ec5be2c07.png)
 
 ## Links
 
