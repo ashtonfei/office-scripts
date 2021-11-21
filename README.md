@@ -5,4 +5,4 @@ All my Office Script projects shared on [[YouTube]](https://www.youtube.com/play
 
 ## Projects
 
-- OS-001 Office Script Introduction [[YouTube]](https://youtu.be/HIestEEJrrM) [[Branch]]()
+- OS-001 Office Script Introduction [[YouTube]](https://youtu.be/HIestEEJrrM) [[Branch]](https://github.com/ashtonfei/office-scripts/blob/main/src/OS001.ts)
