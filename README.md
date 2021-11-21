@@ -5,4 +5,4 @@ All my Office Script projects shared on [[YouTube]](https://www.youtube.com/play
 
 ## Projects
 
-- OS-001 Office Script Introduction [[YouTube]]() [[Branch]]()
+- OS-001 Office Script Introduction [[YouTube]](https://youtu.be/HIestEEJrrM) [[Branch]]()
