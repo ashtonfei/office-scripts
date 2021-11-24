@@ -6,3 +6,4 @@ All my Office Script projects shared on [[YouTube]](https://www.youtube.com/play
 ## Projects
 
 - OS-001 Office Script Introduction [[YouTube]](https://youtu.be/HIestEEJrrM) [[Script]](https://github.com/ashtonfei/office-scripts/blob/main/src/OS001.ts)
+- OS-002 Send Report with Charts [[YouTube]](https://youtu.be/HIestEEJrrM) [[Script]](https://github.com/ashtonfei/office-scripts/blob/main/src/OS002.ts)
